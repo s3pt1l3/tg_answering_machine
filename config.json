@@ -1,0 +1,8 @@
+{
+    "message": "Your message",
+    "keys": ["key1", "key2"],
+    "login": {
+        "api_id": "",
+        "api_hash": ""
+    }
+}
