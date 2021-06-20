@@ -1,4 +1,3 @@
-from typing import Text
 from telethon import TelegramClient, sync, events
 import json
 
